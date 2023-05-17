@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <table
+      class="Board"
+    >
+      <tbody>
+        <tr>
+          <td
+            class="cell-container"
+            id="0-0"
+          >
+            <div
+              class="Cell Cell-lit"
+            />
+          </td>
+          <td
+            class="cell-container"
+            id="0-1"
+          >
+            <div
+              class="Cell Cell-lit"
+            />
+          </td>
+          <td
+            class="cell-container"
+            id="0-2"
+          >
+            <div
+              class="Cell Cell-lit"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="cell-container"
+            id="1-0"
+          >
+            <div
+              class="Cell Cell-lit"
+            />
+          </td>
+          <td
+            class="cell-container"
+            id="1-1"
+          >
+            <div
+              class="Cell Cell-lit"
+            />
+          </td>
+          <td
+            class="cell-container"
+            id="1-2"
+          >
+            <div
+              class="Cell Cell-lit"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="cell-container"
+            id="2-0"
+          >
+            <div
+              class="Cell Cell-lit"
+            />
+          </td>
+          <td
+            class="cell-container"
+            id="2-1"
+          >
+            <div
+              class="Cell Cell-lit"
+            />
+          </td>
+          <td
+            class="cell-container"
+            id="2-2"
+          >
+            <div
+              class="Cell Cell-lit"
+            />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</DocumentFragment>
+`;

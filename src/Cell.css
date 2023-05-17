@@ -1,0 +1,19 @@
+.cell-container {
+  height: 100px;
+  width: 100px;
+  background-color: darkgray;
+  cursor: pointer;
+  margin: 0 auto;
+}
+
+.Cell {
+  height: 40px;
+  width: 40px;
+  border-radius: 50% 50%;
+  background-color: darkgray;
+  margin : 0 auto;
+}
+
+.Cell-lit {
+  background-color: white;
+}
